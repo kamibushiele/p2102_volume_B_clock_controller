@@ -15,6 +15,6 @@
 
 ## License
 
-このデータパックは MITライセンス下で公開されています。LICENSE.txtを見てください
+このソフトウェアは MITライセンス下で公開されています。LICENSE.txtを見てください
 
-This datapack is released under the MIT License, see LICENSE.txt.
+This softwere is released under the MIT License, see LICENSE.txt.
